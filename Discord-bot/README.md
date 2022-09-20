@@ -20,3 +20,5 @@
 - There are two solutions I can think of that can keep the bot running 24/7
 - The first and very unpratical solution is to have the computer running it be on and running it nonstop 24/7 until the end of time
 - The second and much more realistic option is to host it on a cloud VPS like AWS, however this will eventually cost money so the question of monetization comes into play when talking about keeping the lights on for the bot
+## Notes
+- Was unsure about what to do with the .env file, left it in but the token in there no longer works
